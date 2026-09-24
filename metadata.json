@@ -1,0 +1,6 @@
+{
+  "name": "SodaTrack: Beverage Stock",
+  "description": "Smart beverage, Pepsi & soda inventory management system for small retail stores with sales trends, turnover analysis, vendor orders & overdue alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
